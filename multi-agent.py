@@ -14,13 +14,13 @@ load_dotenv()
 
 # ----- Agent IDs Configuration -----
 # Document Search Agent (Agent 1)
-AGENT1_ID = "asst_OU7xQjbxVDsCEGvuhFgZgxXW"
+AGENT1_ID = "#####"
 
 # Web Search Agent (Agent 2)
-AGENT2_ID = "asst_tCbk505ygq8xNaZUgQOqHKs6"
+AGENT2_ID = "#####"
 
 # Summary Agent (Agent 3)
-AGENT3_ID = "asst_1Vfj9fYdA2PK7OJwRcM2Kog2"
+AGENT3_ID = "#####"
 
 # ----- SERP API and Azure Project Configuration -----
 SERP_API_KEY = os.environ.get("SERP_API_KEY")
